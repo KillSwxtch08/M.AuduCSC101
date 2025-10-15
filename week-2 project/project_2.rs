@@ -1,4 +1,4 @@
-fn main() {
+ fn main() {
 	let toshiba: f64 = 450_000.0;
 	let mac: f64 = 1_500_000.0;
 	let hp: f64 = 750_000.0;
